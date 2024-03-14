@@ -66,7 +66,7 @@ Special Photographs
   :width: 400
   :alt: image of three cars in primary colors
   
-..image copyright Therese Kay
+.. image copyright Therese Kay
 
 
 
