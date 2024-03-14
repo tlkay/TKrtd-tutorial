@@ -62,11 +62,12 @@ According to Publisher's Weekly
 Special Photographs
 -------------------
 
-..image:: IMG_4676.jpg
+..image:: ../IMG_4676.jpg
+  :width: 400
+  :alt: image of three cars in primary colors
+  
+..image copyright Therese Kay
 
-
-.. I'm doing this blindly because I can't figure out how to preview it even after instally Python and Sphinx
-.. This is where I get twisted up and such. I can format things but navigating commands is rough on my brain.
 
 
 
