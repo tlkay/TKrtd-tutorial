@@ -62,11 +62,11 @@ According to Publisher's Weekly
 Special Photographs
 -------------------
 
-.. image:: TKrtd-tutorial/docs/IMG_4676.jpg
+.. image:: docs/source/IMG_4676.jpg
    :width: 600
    :alt: image of three cars in primary colors
   
-.. image copyright Therese Kay
+.. copyright Therese Kay
 
 
 
