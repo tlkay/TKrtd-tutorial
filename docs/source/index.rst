@@ -62,7 +62,7 @@ According to Publisher's Weekly
 Special Photographs
 -------------------
 
-.. image:: docs/source/IMG_4676.jpg
+.. image:: IMG_4676.jpg
    :width: 600
    :alt: image of three cars in primary colors
   
